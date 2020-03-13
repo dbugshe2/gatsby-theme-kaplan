@@ -2,7 +2,7 @@
   "name": "example",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "christopherbiscardi <chris@christopherbiscardi.com> (@chrisbiscardi)",
+  "author": "Maroof Shittu <dbugshe2@gmail.com> (@maroof)",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "gatsby": "^2.18.8",
-    "gatsby-theme-minimal": "^1.0.0",
+    "@maroof/gatsby-theme-kaplan": "0.1.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   }
