@@ -967,6 +967,16 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
+"@maroof/gatsby-theme-kaplan@0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@maroof/gatsby-theme-kaplan/-/gatsby-theme-kaplan-0.1.0.tgz#a79484d726df516ffab2565d597aebcecc95244c"
+  integrity sha512-WPh26qw8sbp5hQ3IpuyNkHMO+B684sZT3hsh8FS3MK9m8nWDg4e2L6NGytC/MGIh6I0mLF6owo8LOSRkSbfXVQ==
+  dependencies:
+    "@mdx-js/react" "^1.5.3"
+    gatsby-source-filesystem "^2.1.43"
+    gatsby-transformer-yaml "^2.2.20"
+    wired-elements "^2.0.0"
+
 "@mdx-js/mdx@^1.5.7":
   version "1.5.7"
   resolved "https://registry.yarnpkg.com/@mdx-js/mdx/-/mdx-1.5.7.tgz#9167273da888ef4c545a5601bc5da989dfccb3a7"
@@ -1413,9 +1423,9 @@ acorn-jsx@^5.1.0:
   integrity sha512-tMUqwBWfLFbJbizRmEcWSLw6HnFzfdJs2sOJEOwwtVPMoH/0Ay+E703oZz78VSXZiiDcZrQ5XKjPIUQixhmgVw==
 
 acorn@^6.2.1:
-  version "6.4.0"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.0.tgz#b659d2ffbafa24baf5db1cdbb2c94a983ecd2784"
-  integrity sha512-gac8OEcQ2Li1dxIEWGZzsp2BitJxwkwcOm0zHAJLcPJaVvm58FRnk6RkuLRpU1EujipU2ZFODv2P9DLMfnV8mw==
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
+  integrity sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==
 
 acorn@^7.1.0:
   version "7.1.0"
