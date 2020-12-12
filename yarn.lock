@@ -967,6 +967,16 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
+"@maroof/gatsby-theme-kaplan@0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@maroof/gatsby-theme-kaplan/-/gatsby-theme-kaplan-0.1.0.tgz#a79484d726df516ffab2565d597aebcecc95244c"
+  integrity sha512-WPh26qw8sbp5hQ3IpuyNkHMO+B684sZT3hsh8FS3MK9m8nWDg4e2L6NGytC/MGIh6I0mLF6owo8LOSRkSbfXVQ==
+  dependencies:
+    "@mdx-js/react" "^1.5.3"
+    gatsby-source-filesystem "^2.1.43"
+    gatsby-transformer-yaml "^2.2.20"
+    wired-elements "^2.0.0"
+
 "@mdx-js/mdx@^1.5.7":
   version "1.5.7"
   resolved "https://registry.yarnpkg.com/@mdx-js/mdx/-/mdx-1.5.7.tgz#9167273da888ef4c545a5601bc5da989dfccb3a7"
@@ -5756,9 +5766,9 @@ inherits@2.0.3:
   integrity sha1-Yzwsg+PaQqUC9SRmAiSA9CCCYd4=
 
 ini@^1.3.4, ini@~1.3.0:
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
-  integrity sha512-RZY5huIKCMRWDUqZlEi72f/lmXKMvuszcMBduliQ3nnWbx9X/ZBQO7DijMEYS9EhHBb2qacRUMtC7svLwe0lcw==
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
+  integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
 ink-spinner@^3.0.1:
   version "3.0.1"
