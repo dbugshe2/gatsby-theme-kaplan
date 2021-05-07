@@ -967,6 +967,16 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
+"@maroof/gatsby-theme-kaplan@0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@maroof/gatsby-theme-kaplan/-/gatsby-theme-kaplan-0.1.0.tgz#a79484d726df516ffab2565d597aebcecc95244c"
+  integrity sha512-WPh26qw8sbp5hQ3IpuyNkHMO+B684sZT3hsh8FS3MK9m8nWDg4e2L6NGytC/MGIh6I0mLF6owo8LOSRkSbfXVQ==
+  dependencies:
+    "@mdx-js/react" "^1.5.3"
+    gatsby-source-filesystem "^2.1.43"
+    gatsby-transformer-yaml "^2.2.20"
+    wired-elements "^2.0.0"
+
 "@mdx-js/mdx@^1.5.7":
   version "1.5.7"
   resolved "https://registry.yarnpkg.com/@mdx-js/mdx/-/mdx-1.5.7.tgz#9167273da888ef4c545a5601bc5da989dfccb3a7"
@@ -10553,9 +10563,9 @@ typedarray@^0.0.6:
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
 ua-parser-js@^0.7.18:
-  version "0.7.21"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.21.tgz#853cf9ce93f642f67174273cc34565ae6f308777"
-  integrity sha512-+O8/qh/Qj8CgC6eYBVBykMrNtp5Gebn4dlGD/kKXVkJNDwyrAwSIqwz8CDf+tsAIWVycKcku6gIXJ0qwx/ZXaQ==
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 unc-path-regex@^0.1.2:
   version "0.1.2"
